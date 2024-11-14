@@ -1,4 +1,4 @@
-const BASE_URL = 'https://denlysiak.github.io/inforce_task-app/api/';
+const BASE_URL = 'https://denlysiak.github.io/solution-task-inforce/api/';
 
 // returns a promise resolved after a given delay to imitate certain delay of data loading
 function wait(delay: number) {
