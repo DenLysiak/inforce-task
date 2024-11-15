@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@import "./shared/mixins";
+@import "./shared/vars";
+@import "./App.scss";
+@import "./components/ProductListView/ProductListView.module.scss";
+@import "./components/ProductCard/ProductCard.modules.scss";
+@import "./components/ModalWindow/ModalWindow.module.scss";
